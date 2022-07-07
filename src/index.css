@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700&family=Poppins:wght@100;300;400;500;600;700&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.home .card-text{
+    font-size: 16.8px;
+}
+
+.bg-dark{
+    background-color: black !important;
+}
+
+.fs-3{
+    font-size: 20px !important;
+}
+
+.min-height{
+    min-height: 79vh;
+}
+
+.bg-yellow{
+    background-color: #ffc107 !important;
+    color: white !important;
+}
+
+.socials i{
+  cursor: pointer;
+  transition: 0.3s ease;
+}   
+
+.socials .fa-facebook-square:hover{
+  color: #4867AA !important;
+}   
+
+.socials .fa-twitter-square:hover{
+  color: #1DA1F2 !important;
+}   
+
+.socials .fa-youtube:hover{
+  color: #F70000 !important;
+}        
